@@ -1,4 +1,4 @@
-![Tradehelm](./public/logo.svg "TradeHelm")
+# TradeHelm Challenge
 
 En el camino desde mi casa al supermercado, mi cerebro pierde la capacidad de retener información, por ende necesito hacer una aplicación que se encargue de esa difícil tarea. No, no puedo usar Google Keep, Evernote, nada, soy dev, la tengo que hacer, además esto es un challenge así que agarrá la pala.
 
@@ -36,3 +36,11 @@ Cualquier adicional que contribuya a la aplicación sin complicarla, suma, dark 
 > ![Vacío](./specs/vacio.png "Vacío")
 > ![Formulario](./specs/formulario.png "Formulario")
 > ![Lleno](./specs/lleno.png "Lleno")
+
+## Resultados del desafio desarrollado:
+![image](https://user-images.githubusercontent.com/29493425/149607058-d2232e57-a7fe-4912-ae5a-54454925e5b2.png)
+![image](https://user-images.githubusercontent.com/29493425/149607061-657636e3-c8bc-4257-a025-e4d81891e349.png)
+![image](https://user-images.githubusercontent.com/29493425/149607069-1dfb12b4-437b-4d31-b643-d50c0ecc66b5.png)
+
+
+
